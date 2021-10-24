@@ -35,4 +35,5 @@ Tools: Python, and Jupyter Notebook.
 Libraries: BeautifulSoup, Requests, Pandas, Scikit-Learn, and Seaborn.  
 
 ## Communication
-
+In addition to the slides, we made a [DashBoard](https://used-luxury-cars.herokuapp.com/) to show our results and use the model
+![dash](dash.png)
