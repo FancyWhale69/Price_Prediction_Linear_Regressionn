@@ -24,10 +24,10 @@ Open the notebook in jupyter notebook to view the code and technical details, or
 # Results Summery  
 We found that there are 6 features which affect the price, which are:  
 1- Year- The newer the car the more expensive it is.  
-2- Cylinders- A great number of cylinders indicate that the car is ethier sporty or high end.
-3- Is the car electrical- Electric cars are more expensive then non-electric electric.
+2- Cylinders- A great number of cylinders indicate that the car is ethier sporty or high end.  
+3- Is the car electrical- Electric cars are more expensive then non-electric electric.  
 4- MPG- Expensive cars have low mpg.(because they have bigger engines. see point 2).  
-5- Mileage- The more mileage the car have the lower it price become.
+5- Mileage- The more mileage the car have the lower it price become.  
 6- Gears- High end cars tend to have a great number of gears.  
 
 # Acknowledgment  
