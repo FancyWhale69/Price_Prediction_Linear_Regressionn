@@ -11,23 +11,23 @@ The data was scrapped from Cars.com because it is the second-largest automotive 
 The last predictions of used cars prices were drawn from multiple features such as year, selling price, mileage, fuel consumption, transmission, drive train, and number of cylinders.
 
 ## Algorithms
-Pre-processing 
-1-	Cleaned the data and impute the null, checked for duplicate, and delt outliers.
-2-	Created plots to visualize the relationships between the target and predictors, and between the variables themselves.
+### Pre-processing
+1-	Cleaned the data and impute the null, checked for duplicate, and delt outliers.  
+2-	Created plots to visualize the relationships between the target and predictors, and between the variables themselves.  
 3-	Decided which features to keep and which to drop.  
 
-## Feature Engineering
-1-	The categorical data were turned to numerical using dummy variables.
-2-	Combined the dummies to reduce the number of columns.
-3-	Turned price columns to price log.
+### Feature Engineering
+1-	The categorical data were turned to numerical using dummy variables.  
+2-	Combined the dummies to reduce the number of columns.  
+3-	Turned price columns to price log.  
 4-	Split data to train and test data.  
 
 ## Models
-1-	Several linear regressions were developed, and we reduced the number of features in each one based on the coefficient of each model.
-2-	Pick and choose the best model with the right number of features to avoid the complexity and error.
+1-	Several linear regressions were developed, and we reduced the number of features in each one based on the coefficient of each model.  
+2-	Pick and choose the best model with the right number of features to avoid the complexity and error.  
 
 ## Model Evaluation and Selection
-1-	The dataset observations of 10860 were split into 70/30 train vs. test, and all scores were calculated with 10-fold cross validation on the whole data.
+1-	The dataset observations of 10860 were split into 70/30 train vs. test, and all scores were calculated with 10-fold cross validation on the whole data.  
 2-	The evaluation of our models was based on the mean absolute error.  
 
 ## Tools
