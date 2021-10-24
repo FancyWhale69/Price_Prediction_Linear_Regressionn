@@ -35,5 +35,5 @@ I would like to thank my teammates Rashed AlHilal, and Amena AlSamah for their a
 
 # Team Memebers
 1- Hazim Bukhari  
-2- Amena AlSamah
+2- Amena AlSamah  
 3- Rashed AlHilal
