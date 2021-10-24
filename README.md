@@ -33,3 +33,7 @@ We found that there are 6 features which affect the price, which are:
 # Acknowledgment  
 I would like to thank my teammates Rashed AlHilal, and Amena AlSamah for their amazing work.
 
+# Team Memebers
+1- Hazim Bukhari  
+2- Amena AlSamah
+3- Rashed AlHilal
