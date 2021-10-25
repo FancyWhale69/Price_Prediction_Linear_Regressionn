@@ -1,16 +1,11 @@
 # Price_Prediction_Linear_Regressionn
 
-# Installation  
-1- python 3.7.  
-2- numpy.  
-3- pandas.  
-4- seaborn. 
-5- plotly.  
-6- sci-kit learn.  
-7- jupyter notbook.  
 
 # Project Motivation  
-A new dealer ship has asked us to build a model to predict the prices of used luxury cars mainly Merc, BMW, and Audi.
+A new dealer ship has asked us to build a model to predict the prices of used luxury cars mainly Merc, BMW, and Audi and they want to automate the pricing process to achive three things:  
+- Accuracy  
+- Speed  
+- Reduce cost
 
 # File Descriptions  
 Proposal- Folder containing the project's proposal  
@@ -36,4 +31,4 @@ I would like to thank my teammates Rashed AlHilal, and Amena AlSamah for their a
 # Team Memebers
 1- Hazim Bukhari  
 2- Amena AlSamah  
-3- Rashed AlHilal
+3- [Rashed AlHilal](https://github.com/R3Z96)
