@@ -26,9 +26,9 @@ We found that there are 6 features which affect the price, which are:
 6- Gears- High end cars tend to have a great number of gears.  
 
 # Acknowledgment  
-I would like to thank my teammates Rashed AlHilal, and Amena AlSamah for their amazing work.
+I would like to thank my teammates [Rashed AlHilal](https://github.com/R3Z96), and [Amena AlSamah](https://github.com/Amena-ss) for their amazing work and support.
 
 # Team Memebers
-1- Hazim Bukhari  
-2- Amena AlSamah  
+1- [Hazim Bukhari](https://github.com/FancyWhale69)  
+2- [Amena AlSamah](https://github.com/Amena-ss)
 3- [Rashed AlHilal](https://github.com/R3Z96)
